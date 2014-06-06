@@ -1,5 +1,4 @@
 var gulp = require('gulp'),
-  changed = require('gulp-changed'),
   shell = require('gulp-shell'),
   browserSync = require('browser-sync');
 
