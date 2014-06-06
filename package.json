@@ -1,0 +1,19 @@
+{
+  "name": "sketch-exporter",
+  "version": "0.0.1",
+  "description": ".sketch exporter w/ gulpjs",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Masaaki Komori",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^0.9.1",
+    "gulp": "^3.7.0",
+    "gulp-changed": "^0.4.0",
+    "gulp-imagemin": "^0.6.0",
+    "gulp-shell": "^0.2.5"
+  }
+}
