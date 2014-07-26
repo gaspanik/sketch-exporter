@@ -1,6 +1,6 @@
 {
   "name": "sketch-exporter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": ".sketch exporter w/ gulpjs",
   "main": "gulpfile.js",
   "scripts": {
@@ -10,8 +10,8 @@
   "author": "Masaaki Komori",
   "license": "MIT",
   "devDependencies": {
-    "browser-sync": "^0.9.1",
-    "gulp": "^3.7.0",
-    "gulp-shell": "^0.2.5"
+    "gulp": "*",
+    "gulp-shell": "*",
+    "browser-sync": "*"
   }
 }
