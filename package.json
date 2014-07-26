@@ -1,6 +1,6 @@
 {
   "name": "sketch-exporter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": ".sketch exporter w/ gulpjs",
   "main": "gulpfile.js",
   "scripts": {
@@ -12,6 +12,8 @@
   "devDependencies": {
     "gulp": "*",
     "gulp-shell": "*",
+    "gulp-imagemin": "*",
+    "run-sequence": "*",
     "browser-sync": "*"
   }
 }
